@@ -1,2 +1,3 @@
 # tesseract-ocr-analysis
-Tesseract_OCR.ipynb was modified so that multiple page segmentation modes are worth enhancing OCR analysis as images can be targeted based on number of regions and their orientations. This enhancement increases the flexibility and effectiveness of character recognition on various formats.
+
+Implemented multiple page segmentation modes in Tesseract_OCR.ipynb to enhance OCR analysis, allowing for targeted processing of images based on orientation and specific regions. This addition improves the versatility and accuracy of text recognition across different formats.
